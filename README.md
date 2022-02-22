@@ -16,6 +16,14 @@ Here is a list of ruby terms and definitions used in class.
 <em>**Gem**</em> - A gem is a pre-built software package in Ruby, which contain libraries or applications to be used as shortcuts to automate certain repetitive tasks or speed up basic code building. <br>
 
 ## Part 2
+<em>**Conditional**</em> - Conditionals determine whether certain conditions are met and if a set of instructions should be run or not. <br>
+<em>**The difference between if, elseif and else.**</em> - If determines if a condition has been met. Elseif gives a set of instructions to run if the first (if) condition has not been met. Else is a final (optional) statement for use when none of the above conditions are met and alternate instructions should be processed.<br>
+<em>**What are Case/When statements? </em> - When a stated case or condition is met, then return a given response, as in a switch statement. <br>
+<em>**What is a data structure? </em> - Data structure is a to organize and access data. Examples are: arrays, trees, hashes, lists, stacks, and sets. <br>
+<em>**Arrays**</em> - Arrays are ordered, indexed collections of objects. These objects are integer-indexed, starting at 0. The objects can be of any type, such as strings, integers, hashes, or other arrays. <br>
+<em>**What is meant by 'built-in' methods?**</em> - Built-in methods are predefined by Ruby to reduce manual calculation and coding time by the developer. This creates easily repeatable methods to increase performance, speed, and efficiency. <br>
+<em>**Loops**</em> - Loops will repeat the same line or block of code a specified number of times, or until a specified condition is met. <br>
+<em>**What are infinite loops?**</em> - An infinite loop is a loop that never reaches a breaking point, does not contain a specified end, and/or meets the specified condition laid out in the code. It will run forever unless manually broken. <br>
 
 ## Part 3
 
