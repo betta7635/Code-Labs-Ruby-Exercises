@@ -15,11 +15,12 @@ array.each do |number| number * 2
   end
 end
 puts
-array.each do |number|
+array.each do |number| 
   multiply = number * 2
-  array.select {|multiply| multiply.even?}
-    puts "#{number} times 2 equals #{number * 2}. This number is even."
-  array.select {|multiply| multiply.odd?}
-    puts "#{number} times 2 equals #{number * 2}. This number is odd."
+  array.select {|multiply| multiply}
+    if multiply.even?
+      puts "#{number} times 2 equals #{number * 2}. This number is even."
+    elsif multiply.odd?
+      puts "#{number} times 2 equals #{number * 2}. This number is odd."
+    end
 end
-  
