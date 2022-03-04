@@ -92,7 +92,6 @@ user = nil
       end
     end
 
-
     # if user.logged_in = false && tries < 3
     #   puts "Attempt #{tries} / 3"
     # elsif tries == 3
